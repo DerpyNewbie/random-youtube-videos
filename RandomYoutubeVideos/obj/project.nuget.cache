@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jKesF2H/P210j2gqrcSGYshv722+0w3YGfTp6/silV96cpVfUXAJMrv1D9xPxx994NlgrqI7Rs/d57lLkab5qQ==",
+  "success": true,
+  "projectFilePath": "G:\\Users\\derpy\\Documents\\GitHub\\RandomYoutubeVideos\\RandomYoutubeVideos\\RandomYoutubeVideos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\derpy\\.nuget\\packages\\google.apis\\1.50.0\\google.apis.1.50.0.nupkg.sha512",
+    "C:\\Users\\derpy\\.nuget\\packages\\google.apis.auth\\1.50.0\\google.apis.auth.1.50.0.nupkg.sha512",
+    "C:\\Users\\derpy\\.nuget\\packages\\google.apis.core\\1.50.0\\google.apis.core.1.50.0.nupkg.sha512",
+    "C:\\Users\\derpy\\.nuget\\packages\\google.apis.youtube.v3\\1.50.0.2238\\google.apis.youtube.v3.1.50.0.2238.nupkg.sha512",
+    "C:\\Users\\derpy\\.nuget\\packages\\json.net\\1.0.23\\json.net.1.0.23.nupkg.sha512",
+    "C:\\Users\\derpy\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
